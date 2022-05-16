@@ -1,1 +1,1 @@
-# AI-GYM-Assistant
+# -AI-trainer-gymmie
