@@ -1,1 +1,1 @@
-# -AI-trainer-gymmie
+# Smart-AI-Gym-Trainer
